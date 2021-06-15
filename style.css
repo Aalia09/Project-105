@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(214, 163, 224);
+}
+
+.heading{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight:bold;
+}
+
+.name_of_objects{
+    color: rgb(199, 84, 132);
+}
+
+#camera{
+    height: 300px;
+    width: 350px;
+    border: 2px dotted;
+}
+
+#name_of_object , #accuracy_of_object{
+    color: rgb(79, 115, 214);
+}
